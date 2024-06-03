@@ -91,16 +91,16 @@
 		"root": true
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^4.20230115.0",
+		"@cloudflare/workers-types": "^4.20240529.0",
 		"@typescript-eslint/eslint-plugin": "^5.51.0",
 		"@typescript-eslint/parser": "^5.51.0",
-		"discord-api-types": "^0.37.33",
+		"discord-api-types": "^0.37.86",
 		"eslint": "^8.34.0",
 		"eslint-plugin-import": "^2.27.5",
 		"eslint-plugin-unused-imports": "^2.0.0",
 		"prettier": "^2.8.4",
 		"prettier-plugin-packagejson": "^2.4.3",
-		"typescript": "^4.9.5",
-		"wrangler": "2.9.1"
+		"typescript": "5.1.6",
+		"wrangler": "3.58.0"
 	}
 }
